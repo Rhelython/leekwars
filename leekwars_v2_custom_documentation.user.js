@@ -7,11 +7,11 @@
 // @projectPage     https://github.com/Rhelython/leekwars
 // @downloadURL     https://github.com/Rhelython/leekwars/raw/master/leekwars_v2_custom_documentation.user.js
 // @updateURL       https://github.com/Rhelython/leekwars/raw/master/leekwars_v2_custom_documentation.user.js
-// @match           http://leekwars.com
-// @match           http://leekwars.com/*
-// @include         http://leekwars.com
-// @include         http://leekwars.com/*
-// @require         http://leekwars.com/static/lib/jquery-2.1.1.min.js
+// @match           https://leekwars.com
+// @match           https://leekwars.com/*
+// @include         https://leekwars.com
+// @include         https://leekwars.com/*
+// @require         https://leekwars.com/static/lib/jquery-2.1.1.min.js
 // @grant           GM_addStyle
 // @grant           unsafeWindow
 // ==/UserScript==
